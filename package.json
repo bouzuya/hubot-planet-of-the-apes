@@ -1,6 +1,6 @@
 {
   "name": "hubot-planet-of-the-apes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hubot script that tells you where you are",
   "main": "index.js",
   "scripts": {
