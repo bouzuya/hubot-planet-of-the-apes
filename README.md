@@ -14,7 +14,7 @@ or
 ## Example
 
     bouzuya> hubot where am i
-      hubot> You are in the earth.
+      hubot> You are on the earth.
 
 ## Configuration
 

@@ -12,4 +12,4 @@
 #
 module.exports = (robot) ->
   robot.respond /where am i\??$/i, (res) ->
-    res.send 'You are in the earth.'
+    res.send 'You are on the earth.'
